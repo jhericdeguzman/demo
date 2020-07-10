@@ -9,17 +9,17 @@
       "questions": [
           {
               "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
-              "type:": "radio",
+              "type": "radio",
               "helptext": "1Dette er en hjælpetekst, når brugeren klikker på spørgsmålstenget."
           },
           {
               "question": "<p>Oplys seneste ophørsdato på selvstændig aktivitet:</p>",
-              "type:": "date",
+              "type": "date",
               "helptext": "2Dette er en hjælpetekst, når brugeren klikker på spørgsmålstenget."
           },
           {
               "question": "<p>Hvilken uddanelse deltager du i perioden fra 23.06.2020 til 10.01.2021?</p><ul><li>Kontanthjælp</li><li>SU</li><li>Sygedagpenge</li><li>Barselsdagpenge</li><li>Ressourceforløbsydelse</li><li>Seniorydelse</li><li>Flexydelse</li><li>Revalidering</li></ul>",
-              "type:": "input",
+              "type": "input",
               "placeholder": "skriv navnet på uddannelsen",
               "helptext": "3Dette er en hjælpetekst, når brugeren klikker på spørgsmålstenget."
           }
