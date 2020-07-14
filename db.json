@@ -6,16 +6,19 @@
       "title": "arbejdsgiverferie og løn",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 0,
+      "lastPage": false,
       "questions": [
           {
               "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
               "type": "radio",
-              "helptext": "Some helper text here"
+              "helptext": "Some helper text here",
+              "answer": ""
           },
           {
               "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
               "type": "radio",
-              "helptext": "Some helper text here"
+              "helptext": "Some helper text here",
+              "answer": ""
           }
       ]
     },
@@ -25,11 +28,13 @@
       "title": "overførte feriedage",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 25,
+      "lastPage": false,
       "questions": [
           {
               "question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
               "type": "radio",
-              "helptext": "Some helper text here"
+              "helptext": "Some helper text here",
+              "answer": ""
           }
       ]
     },
@@ -39,11 +44,13 @@
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
       "progress": 50,
+      "lastPage": false,
       "questions": [
           {
               "question": "<p>Oplys seneste ophørsdato på selvstændig aktivitet:</p>",
               "type": "date",
-              "helptext": "Some helper text here"
+              "helptext": "Some helper text here",
+              "answer": ""
           }
       ]
     },
@@ -53,12 +60,14 @@
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
       "progress": 75,
+      "lastPage": false,
       "questions": [
           {
               "question": "<p>Hvilken uddanelse deltager du i perioden fra 23.06.2020 til 10.01.2021?</p><ul><li>Kontanthjælp</li><li>SU</li><li>Sygedagpenge</li><li>Barselsdagpenge</li><li>Ressourceforløbsydelse</li><li>Seniorydelse</li><li>Flexydelse</li><li>Revalidering</li></ul>",
               "type": "input",
               "placeholder": "skriv navnet på uddannelsen",
-              "helptext": "Some helper text here"
+              "helptext": "Some helper text here",
+              "answer": ""
           }
       ]
     },
@@ -68,11 +77,13 @@
       "title": "overførte feriedage",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 100,
+      "lastPage": true,
       "questions": [
           {
               "question": "<p>Deltager du i en uddannelse i perioden fra [dato fra første feriedag med FDP ]til [dato fra sidste feriedag med FDP]?</p>",
               "type": "radio",
-              "helptext": "Some helper text here"
+              "helptext": "Some helper text here",
+              "answer": ""
           }
       ]
     }
