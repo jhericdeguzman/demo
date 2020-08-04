@@ -23,12 +23,14 @@
       "lastPage": false,
       "questions": [
           {
+            "id": 11,
               "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": ""
+              "answer": null
           },
           {
+            "id": 12,
               "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
               "type": "radio",
               "helptext": "Some helper text here",
@@ -45,6 +47,7 @@
       "lastPage": false,
       "questions": [
           {
+            "id": 21,
               "question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
@@ -61,6 +64,7 @@
       "lastPage": false,
       "questions": [
           {
+            "id": 31,
               "question": "<p>Oplys seneste ophørsdato på selvstændig aktivitet:</p>",
               "type": "date",
               "helptext": "Some helper text here",
@@ -77,6 +81,7 @@
       "lastPage": false,
       "questions": [
           {
+            "id": 41,
               "question": "<p>Hvilken uddanelse deltager du i perioden fra 23.06.2020 til 10.01.2021?</p><ul><li>Kontanthjælp</li><li>SU</li><li>Sygedagpenge</li><li>Barselsdagpenge</li><li>Ressourceforløbsydelse</li><li>Seniorydelse</li><li>Flexydelse</li><li>Revalidering</li></ul>",
               "type": "input",
               "placeholder": "skriv navnet på uddannelsen",
@@ -94,6 +99,7 @@
       "lastPage": true,
       "questions": [
           {
+            "id": 51,
               "question": "<p>Deltager du i en uddannelse i perioden fra [dato fra første feriedag med FDP ]til [dato fra sidste feriedag med FDP]?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
