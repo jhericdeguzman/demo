@@ -15,8 +15,8 @@
     },
   "pages": [
     {
-      "id": 1,
-      "pageNo": 1,
+      "id": 0,
+      "pageNo": 0,
       "title": "arbejdsgiverferie og løn",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 0,
@@ -39,8 +39,8 @@
       ]
     },
     {
-      "id": 2,
-      "pageNo": 2,
+      "id": 1,
+      "pageNo": 1,
       "title": "overførte feriedage",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 25,
@@ -56,8 +56,8 @@
       ]
     },
     {
-      "id": 3,
-      "pageNo": 3,
+      "id": 2,
+      "pageNo": 2,
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
       "progress": 50,
@@ -73,8 +73,8 @@
       ]
     },
     {
-      "id": 4,
-      "pageNo": 4,
+      "id": 3,
+      "pageNo": 3,
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
       "progress": 75,
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "id": 5,
-      "pageNo": 5,
+      "id": 4,
+      "pageNo": 4,
       "title": "overførte feriedage",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 100,
