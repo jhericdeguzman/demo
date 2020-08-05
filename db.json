@@ -37,7 +37,7 @@
               "answer": "nej"
           },
           {
-            "id": 12,
+            "id": 13,
               "question": "<p>Hidden input lorem ipsum dolor sit amet</p>",
               "type": "hidden",
               "helptext": "Some helper text here",
