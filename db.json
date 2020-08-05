@@ -15,8 +15,8 @@
     },
   
   "summary": {
-    title: "abc",
-    list: [
+    "title": "abc",
+    "list": [
         "question": "xxxx",
         "answer": "zzzz"
       ]
