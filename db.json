@@ -34,7 +34,7 @@
               "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": ""
+              "answer": "nej"
           }
       ]
     },
@@ -51,7 +51,7 @@
               "question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": ""
+              "answer": "ja"
           }
       ]
     },
@@ -68,7 +68,7 @@
               "question": "<p>Oplys seneste ophørsdato på selvstændig aktivitet:</p>",
               "type": "date",
               "helptext": "Some helper text here",
-              "answer": ""
+              "answer": "2023-01-31"
           }
       ]
     },
