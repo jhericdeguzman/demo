@@ -41,21 +41,27 @@
               "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": null
+              "answer": null,
+              "isRequired": true,
+              "errorText": "Required radio"
           },
           {
             "id": 12,
               "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": "nej"
+              "answer": "nej",
+              "isRequired": true,
+              "errorText": "Required radio 2"
           },
           {
             "id": 13,
               "question": "<p>Hidden input lorem ipsum dolor sit amet</p>",
               "type": "hidden",
               "helptext": "Some helper text here",
-              "answer": null
+              "answer": null,
+              "isRequired": false,
+              "errorText": ""
           }
       ]
     },
@@ -72,7 +78,9 @@
               "question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": "ja"
+              "answer": "ja",
+              "isRequired": true,
+              "errorText": "Required radio"
           }
       ]
     },
@@ -89,7 +97,9 @@
               "question": "<p>Oplys seneste ophørsdato på selvstændig aktivitet:</p>",
               "type": "date",
               "helptext": "Some helper text here",
-              "answer": "2023-01-31"
+              "answer": "2023-01-31",
+              "isRequired": true,
+              "errorText": "Required date"
           }
       ]
     },
@@ -107,7 +117,9 @@
               "type": "input",
               "placeholder": "skriv navnet på uddannelsen",
               "helptext": "Some helper text here",
-              "answer": ""
+              "answer": "",
+              "isRequired": true,
+              "errorText": "Required input text"
           }
       ]
     },
@@ -124,7 +136,9 @@
               "question": "<p>Deltager du i en uddannelse i perioden fra [dato fra første feriedag med FDP ]til [dato fra sidste feriedag med FDP]?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
-              "answer": ""
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
           }
       ]
     }
