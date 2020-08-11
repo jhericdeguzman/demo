@@ -146,7 +146,7 @@
       "id": 6,
       "pageNo": 6,
       "title": "Bekræft ID",
-      "description": "Kontroller at nedenstående oplysninger omkring din identitet er korrekte"
+      "description": "Kontroller at nedenstående oplysninger omkring din identitet er korrekte",
       "progress": 100,
       "lastPage": true,
       "questions": [
