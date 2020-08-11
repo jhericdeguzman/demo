@@ -128,8 +128,8 @@
       "pageNo": 5,
       "title": "overførte feriedage",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
-      "progress": 100,
-      "lastPage": true,
+      "progress": 90,
+      "lastPage": false,
       "questions": [
           {
             "id": 51,
@@ -139,6 +139,34 @@
               "answer": "",
               "isRequired": false,
               "errorText": ""
+          }
+      ]
+    },
+    {
+      "id": 6,
+      "pageNo": 6,
+      "title": "Bekræft ID",
+      "description": "Kontroller at nedenstående oplysninger omkring din identitet er korrekte"
+      "progress": 100,
+      "lastPage": true,
+      "questions": [
+          {
+            "id": 61,
+              "question": "<p><span>Personlige oplysninger</span>:<br>Navn: Morten Petersen<br>Cprnr: 12345678941</p>",
+              "type": "hidden",
+              "helptext": "",
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
+          },
+          {
+            "id": 62,
+              "question": "<p>jeg bekræfter hermed at ovenstående oplysninger er korrekte</p>",
+              "type": "radio",
+              "helptext": "Some helper text here",
+              "answer": "",
+              "isRequired": true,
+              "errorText": "Required"
           }
       ]
     }
