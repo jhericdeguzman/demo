@@ -29,37 +29,82 @@
   },
   "pages": [
     {
-      "id": 1, 
+      "id": 1,
       "pageNo": 1,
-      "title": "arbejdsgiverferie og løn",
-      "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
+      "title": "hvornår vil du gerne afholde din ferie?",
+      "description": null,
       "progress": 0,
       "lastPage": false,
       "questions": [
           {
             "id": 11,
-              "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
-              "type": "radio",
+              "question": "<p>hidden</p>",
+              "type": "hidden",
               "helptext": "Some helper text here",
-              "answer": null,
-              "isRequired": true,
-              "errorText": "Required radio"
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
           },
           {
             "id": 12,
-              "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
-              "type": "radio",
+              "question": "<p>hidden</p>",
+              "type": "hidden",
               "helptext": "Some helper text here",
-              "answer": "nej",
-              "isRequired": true,
-              "errorText": "Required radio 2"
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
           },
           {
             "id": 13,
-              "question": "<p>Hidden input lorem ipsum dolor sit amet</p>",
-              "type": "hidden",
-              "helptext": "Some helper text here",
-              "answer": null,
+              "question": "Startdato for ferieperiode",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
+          },
+          {
+            "id": 14,
+              "question": "Slutdato for ferieperiode",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
+          },
+          {
+            "id": 15,
+              "question": "Startdato for ferieperiode nummer 2",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
+          },
+          {
+            "id": 16,
+              "question": "Slutdato for ferieperiode nummer 2",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
+          },
+          {
+            "id": 17,
+              "question": "Startdato for ferieperiode nummer 3",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
+              "isRequired": false,
+              "errorText": ""
+          },
+          {
+            "id": 18,
+              "question": "Slutdato for ferieperiode nummer 3",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
               "isRequired": false,
               "errorText": ""
           }
@@ -143,15 +188,52 @@
       ]
     },
     {
-      "id": 6,
+      "id": 6, 
       "pageNo": 6,
+      "title": "arbejdsgiverferie og løn",
+      "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
+      "progress": 95,
+      "lastPage": false,
+      "questions": [
+          {
+            "id": 61,
+              "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
+              "type": "radio",
+              "helptext": "Some helper text here",
+              "answer": null,
+              "isRequired": true,
+              "errorText": "Required radio"
+          },
+          {
+            "id": 62,
+              "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
+              "type": "radio",
+              "helptext": "Some helper text here",
+              "answer": "nej",
+              "isRequired": true,
+              "errorText": "Required radio 2"
+          },
+          {
+            "id": 63,
+              "question": "<p>Hidden input lorem ipsum dolor sit amet</p>",
+              "type": "hidden",
+              "helptext": "Some helper text here",
+              "answer": null,
+              "isRequired": false,
+              "errorText": ""
+          }
+      ]
+    },
+    {
+      "id": 7,
+      "pageNo": 7,
       "title": "Bekræft ID",
       "description": "Kontroller at nedenstående oplysninger omkring din identitet er korrekte",
       "progress": 100,
       "lastPage": true,
       "questions": [
           {
-            "id": 61,
+            "id": 71,
               "question": "<p><span>Personlige oplysninger</span>:<br>Navn: Morten Petersen<br>Cprnr: 12345678941</p>",
               "type": "hidden",
               "helptext": "",
@@ -160,7 +242,7 @@
               "errorText": ""
           },
           {
-            "id": 62,
+            "id": 72,
               "question": "<p>jeg bekræfter hermed at ovenstående oplysninger er korrekte</p>",
               "type": "radio",
               "helptext": "Some helper text here",
