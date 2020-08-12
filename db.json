@@ -125,7 +125,21 @@
               "helptext": "Some helper text here",
               "answer": "ja",
               "isRequired": true,
-              "errorText": "Required radio"
+              "errorText": "Required radio",
+              "options": [
+                {
+                  "key": "Ja",
+                  "value": "J"
+                },
+                {
+                  "key": "Nej",
+                  "value": "N"
+                },
+                {
+                  "key": "Custom",
+                  "value": "C"
+                }
+              ]
           }
       ]
     },
