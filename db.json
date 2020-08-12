@@ -142,7 +142,7 @@
               "question": "<p>Oplys seneste ophørsdato på selvstændig aktivitet:</p>",
               "type": "date",
               "helptext": "Some helper text here",
-              "answer": "2023-01-31",
+              "answer": "31-09-2020",
               "isRequired": true,
               "errorText": "Required date"
           }
