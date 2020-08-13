@@ -140,6 +140,16 @@
                   "value": "C"
                 }
               ]
+          },
+         {
+            "id": 22,
+              "question": "<p>textarea</p>",
+              "type": "textarea",
+              "helptext": "Some helper text here",
+              "answer": "abc",
+              "isRequired": true,
+              "errorText": "Required textarea",
+              "options": []
           }
       ]
     },
