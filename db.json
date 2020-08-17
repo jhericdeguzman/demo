@@ -168,7 +168,8 @@
               "helptext": "Some helper text here",
               "answer": "31-09-2020",
               "isRequired": true,
-              "errorText": "Required date"
+              "errorText": "Required date",
+              "options": []
           }
       ]
     },
@@ -188,91 +189,8 @@
               "helptext": "Some helper text here",
               "answer": "",
               "isRequired": true,
-              "errorText": "Required input text"
-          }
-      ]
-    },
-    {
-      "id": 5,
-      "pageNo": 5,
-      "title": "overførte feriedage",
-      "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
-      "progress": 90,
-      "lastPage": false,
-      "questions": [
-          {
-            "id": 51,
-              "question": "<p>Deltager du i en uddannelse i perioden fra [dato fra første feriedag med FDP ]til [dato fra sidste feriedag med FDP]?</p>",
-              "type": "radio",
-              "helptext": "Some helper text here",
-              "answer": "",
-              "isRequired": false,
-              "errorText": ""
-          }
-      ]
-    },
-    {
-      "id": 6, 
-      "pageNo": 6,
-      "title": "arbejdsgiverferie og løn",
-      "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
-      "progress": 95,
-      "lastPage": false,
-      "questions": [
-          {
-            "id": 61,
-              "question": "<p>Har du inden første dag med feriedagpenge afholdt din optjente arbejdsgiverferie?</p>",
-              "type": "radio",
-              "helptext": "Some helper text here",
-              "answer": null,
-              "isRequired": true,
-              "errorText": "Required radio"
-          },
-          {
-            "id": 62,
-              "question": "<p>Modtager du eller har du modtaget løn for de dage du søger om feriedagpenger</p>",
-              "type": "radio",
-              "helptext": "Some helper text here",
-              "answer": "nej",
-              "isRequired": true,
-              "errorText": "Required radio 2"
-          },
-          {
-            "id": 63,
-              "question": "<p>Hidden input lorem ipsum dolor sit amet</p>",
-              "type": "hidden",
-              "helptext": "Some helper text here",
-              "answer": null,
-              "isRequired": false,
-              "errorText": ""
-          }
-      ]
-    },
-    {
-      "id": 7,
-      "pageNo": 7,
-      "title": "Bekræft ID",
-      "description": "Kontroller at nedenstående oplysninger omkring din identitet er korrekte",
-      "progress": 100,
-      "lastPage": false,
-      "questions": [
-          {
-            "id": 71,
-              "question": "<p><span>Personlige oplysninger</span>:<br>Navn: Morten Petersen<br>Cprnr: 12345678941</p>",
-              "type": "hidden",
-              "helptext": "",
-              "answer": "",
-              "isRequired": false,
-              "errorText": ""
-          },
-          {
-            "id": 72,
-              "question": "<p>jeg bekræfter hermed at ovenstående oplysninger er korrekte</p>",
-              "type": "radio",
-              "helptext": "Some helper text here",
-              "answer": "",
-              "isRequired": true,
-              "errorText": "Required"
+              "errorText": "Required input text",
+              "options": []
           }
       ]
     },
