@@ -38,6 +38,7 @@
     {
       "id": 1,
       "pageNo": 1,
+      "isCalendar": true,
       "title": "hvornår vil du gerne afholde din ferie?",
       "description": null,
       "progress": 0,
