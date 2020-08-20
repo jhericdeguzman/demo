@@ -130,6 +130,7 @@
     {
       "id": 2,
       "pageNo": 2,
+      "isCalendar": false,
       "title": "overførte feriedage",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 25,
@@ -173,6 +174,7 @@
     {
       "id": 3,
       "pageNo": 3,
+      "isCalendar": false,
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
       "progress": 50,
@@ -193,6 +195,7 @@
     {
       "id": 4,
       "pageNo": 4,
+      "isCalendar": false,
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
       "progress": 75,
@@ -214,6 +217,7 @@
     {
       "id": 5,
       "pageNo": 5,
+      "isCalendar": false,
       "title": "",
       "description": "",
       "progress": 100,
