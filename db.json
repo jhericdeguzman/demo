@@ -18,12 +18,14 @@
         "date": "2020-08-28", 
         "title": "holiday"
       }],
-      "bookedText": "",
-      "bookedPrevText": "",
-      "unbookableText": "",
-      "weekendsText": "",
-      "pendingText": "",
-      "approvedText": ""
+      "hoverTexts": {
+        "bookedText": "",
+        "bookedPrevText": "",
+        "unbookableText": "",
+        "weekendsText": "",
+        "pendingText": "",
+        "approvedText": ""
+      }
     },
   
   "summary": {
