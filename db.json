@@ -19,12 +19,12 @@
         "title": "holiday"
       }],
       "hoverTexts": {
-        "bookedText": "",
-        "bookedPrevText": "",
-        "unbookableText": "",
-        "weekendsText": "",
-        "pendingText": "",
-        "approvedText": ""
+        "bookedText": "booked text lorem ipsum",
+        "bookedPrevText": "booked previous text lorem ipsum",
+        "unbookableText": "unbookable text lorem ipsum",
+        "weekendsText": "weekends text lorem ipsum",
+        "pendingText": "pending text lorem ipsum",
+        "approvedText": "approved text lorem ipsum"
       }
     },
   
