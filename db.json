@@ -85,7 +85,7 @@
               "question": "Slutdato for ferieperiode",
               "type": "date",
               "helptext": "",
-              "answer": "13-09-2020",
+              "answer": "11-09-2020",
               "isRequired": false,
               "errorText": ""
           },
