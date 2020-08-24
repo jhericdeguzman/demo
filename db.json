@@ -140,7 +140,7 @@
       "questions": [
           {
             "id": 21,
-              question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
+              "question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
               "type": "radio",
               "helptext": "Some helper text here",
               "answer": "C",
