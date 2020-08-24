@@ -79,7 +79,7 @@
               "answer": "10-09-2020",
               "isRequired": false,
               "errorText": "error some text here",
-              "showErrorText": true
+              "showErrorText": false
           },
           {
             "id": 14,
@@ -89,7 +89,7 @@
               "answer": "11-09-2020",
               "isRequired": false,
               "errorText": "error some text here 2",
-              "showErrorText": true
+              "showErrorText": false
           },
           {
             "id": 15,
