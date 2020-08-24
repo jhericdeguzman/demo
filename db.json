@@ -73,7 +73,7 @@
           },
           {
             "id": 13,
-              "question": "Startdato for ferieperiode",
+              question": "Startdato for ferieperiode",
               "type": "date",
               "helptext": "",
               "answer": "10-09-2020",
