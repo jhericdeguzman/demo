@@ -62,7 +62,8 @@
               "helptext": "Some helper text here",
               "answer": "",
               "isRequired": false,
-              "errorText": ""
+              "errorText": "error some text here",
+              "showErrorText": true
           },
           {
             "id": 12,
@@ -71,7 +72,8 @@
               "helptext": "Some helper text here",
               "answer": "",
               "isRequired": false,
-              "errorText": ""
+              "errorText": "error some text here 2",
+              "showErrorText": true
           },
           {
             "id": 13,
