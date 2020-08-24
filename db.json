@@ -61,9 +61,7 @@
               "type": "hidden",
               "helptext": "Some helper text here",
               "answer": "",
-              "isRequired": false,
-              "errorText": "error some text here",
-              "showErrorText": true
+              "isRequired": false
           },
           {
             "id": 12,
@@ -71,9 +69,7 @@
               "type": "hidden",
               "helptext": "Some helper text here",
               "answer": "",
-              "isRequired": false,
-              "errorText": "error some text here 2",
-              "showErrorText": true
+              "isRequired": false
           },
           {
             "id": 13,
@@ -82,7 +78,8 @@
               "helptext": "",
               "answer": "10-09-2020",
               "isRequired": false,
-              "errorText": ""
+              "errorText": "error some text here",
+              "showErrorText": true
           },
           {
             "id": 14,
@@ -91,7 +88,8 @@
               "helptext": "",
               "answer": "11-09-2020",
               "isRequired": false,
-              "errorText": ""
+              "errorText": "error some text here 2",
+              "showErrorText": true
           },
           {
             "id": 15,
