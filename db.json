@@ -57,7 +57,7 @@
       "questions": [
           {
             "id": 11,
-              "question": "<p>hidden</p>",
+              question": "<p>hidden</p>",
               "type": "hidden",
               "helptext": "Some helper text here",
               "answer": "",
