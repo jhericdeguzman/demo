@@ -79,7 +79,7 @@
               "answer": "10-09-2020",
               "isRequired": false,
               "errorText": "error some text here",
-              "showErrorText": false
+              "showErrorText": true
           },
           {
             "id": 14,
@@ -89,7 +89,7 @@
               "answer": "11-09-2020",
               "isRequired": false,
               "errorText": "error some text here 2",
-              "showErrorText": false
+              "showErrorText": true
           },
           {
             "id": 15,
@@ -168,8 +168,9 @@
               "helptext": "Some helper text here",
               "answer": "abc",
               "isRequired": true,
-              "errorText": "Required textarea",
-              "options": []
+              "options": [],
+              "errorText": "submit error textarea",
+              "showErrorText": true
           }
       ]
     },
