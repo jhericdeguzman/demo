@@ -15,11 +15,13 @@
       "pending": ["2020-08-03", "2020-08-04", "2020-08-05"],
       "approved": ["2020-08-06", "2020-08-07"],
       "holiday": [{
-        "date": "2020-08-17", 
-        "title": "holiday"
+        "date": "2020-09-17", 
+        "title": "holiday",
+        "bookable": true
       },{
-        "date": "2020-08-28", 
-        "title": "holiday"
+        "date": "2020-09-28", 
+        "title": "holiday",
+        "bookable": false
       }],
       "hoverTexts": {
         "grey": "booked text lorem ipsum",
