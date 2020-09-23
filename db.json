@@ -11,7 +11,7 @@
       "endDate": "2020-09-06",
       "bookable": {
         "start": "2020-08-27",
-        "end": "2021-05-01"
+        "end": "2020-11-01"
       },
       "unbookable": ["2020-08-24", "2020-08-25", "2020-08-26", "2020-08-27", "2020-08-28"],
       "applied": [
@@ -27,12 +27,20 @@
       "approved": ["2020-08-06", "2020-08-07"],
       "holiday": [{
         "date": "2020-09-17", 
-        "title": "holiday",
+        "title": "holiday 1",
         "bookable": true
       },{
         "date": "2020-09-28", 
-        "title": "holiday",
+        "title": "holiday 2",
         "bookable": false
+      }},{
+        "date": "2020-10-03", 
+        "title": "holiday 3",
+        "bookable": true
+      },{
+        "date": "2020-11-03", 
+        "title": "holiday 4",
+        "bookable": true
       }],
       "hoverTexts": {
         "grey": "booked text lorem ipsum",
