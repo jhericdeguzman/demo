@@ -41,6 +41,10 @@
         "date": "2020-11-03", 
         "title": "holiday 4",
         "bookable": true
+      },{
+        "date": "2020-11-04", 
+        "title": "holiday 5",
+        "bookable": true
       }],
       "hoverTexts": {
         "grey": "booked text lorem ipsum",
