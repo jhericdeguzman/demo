@@ -229,14 +229,14 @@
            "referenceFormId":null
         },
         {
-         "id":23,
+         "id":24,
          "question":"Jeg ønsker at",
          "type":"select",
          "errorText":"OBS! Du skal besvare ovenstående spørgsmål",
          "showErrorText":false,
          "isRequired":true,
          "helptext":"",
-         "answer":"",
+         "answer":"EL-FRAVÆLG",
          "options":[
             {
                "key":"Fravælge efterlønsordningen",
