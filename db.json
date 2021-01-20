@@ -227,7 +227,30 @@
            "format":"CHECKBOX",
            "dataType":"TEKST",
            "referenceFormId":null
-        }
+        },
+        {
+         "id":23,
+         "question":"Jeg ønsker at",
+         "type":"select",
+         "errorText":"OBS! Du skal besvare ovenstående spørgsmål",
+         "showErrorText":false,
+         "isRequired":true,
+         "helptext":"",
+         "answer":"",
+         "options":[
+            {
+               "key":"Fravælge efterlønsordningen",
+               "value":"EL-FRAVÆLG"
+            },
+            {
+               "key":"Holde pause i indbetalingen af efterlønsbidrag",
+               "value":"EL-PAUSE"
+            }
+         ],
+         "format":"SELECT",
+         "dataType":"TEKST",
+         "referenceFormId":null
+      }
         
       ]
     },
