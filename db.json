@@ -199,7 +199,28 @@
               "options": [],
               "errorText": "submit error textarea",
               "showErrorText": true
-          }
+          },
+        
+        {
+           "id":23,
+           "question":"Du behøver ikke udfylde denne blanket her på MitASE, da vi allerede har oplysninger om din uddannelse, eller du er over 30 år.\n\n<b>Tryk på krydset for at afslutte.</b>",
+           "type":"checkbox",
+           "errorText":"OBS! Du skal besvare ovenstående spørgsmål",
+           "showErrorText":false,
+           "isRequired":false,
+           "helptext":"",
+           "answer":"OK",
+           "options":[
+              {
+                 "key":"OK",
+                 "value":"OK"
+              }
+           ],
+           "format":"CHECKBOX",
+           "dataType":"TEKST",
+           "referenceFormId":null
+        }
+        
       ]
     },
     {
