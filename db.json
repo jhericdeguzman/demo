@@ -250,6 +250,20 @@
          "format":"SELECT",
          "dataType":"TEKST",
          "referenceFormId":null
+      },
+        {
+         "id":25,
+         "question":"File upload element",
+         "type":"file",
+         "errorText":"OBS! Du skal besvare ovenstående spørgsmål",
+         "showErrorText":false,
+         "isRequired":true,
+         "helptext":"",
+         "answer":"",
+         "options":[],
+         "format":"FILE",
+         "dataType":"TEKST",
+         "referenceFormId":null
       }
         
       ]
