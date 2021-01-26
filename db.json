@@ -209,19 +209,11 @@
            "showErrorText":false,
            "isRequired":true,
            "helptext":"",
-           "answer":"OK,2nd",
+           "answer":"OK",
            "options":[
               {
                  "key":"OK",
                  "value":"OK"
-              },
-             {
-                 "key":"2nd option",
-                 "value":"2nd"
-              },
-             {
-                 "key":"3rd option",
-                 "value":"3rd"
               }
            ],
            "format":"CHECKBOX",
