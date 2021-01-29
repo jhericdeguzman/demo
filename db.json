@@ -262,24 +262,24 @@
          "answer":"",
          "translations": [
             {
-              key: "or",
-              value: "eller"
+              "key": "or",
+              "value": "eller"
             },{
-              key: "attached files",
-              value: "vedhaeftede filer"
+              "key": "attached files",
+              "value": "vedhaeftede filer"
             },{
-              key: "Enforced contract",
-              value: "Vedhaeft kontrakt"
+              "key": "Enforced contract",
+              "value": "Vedhaeft kontrakt"
             },
           ],
          "options":[
            {
-             key: "sender bilag med posten",
-             value: "POST"
+             "key": "sender bilag med posten",
+             "value": "POST"
            },
            {
-             key: "har ikke dette bilag",
-             value: "MAIDEN"
+             "key": "har ikke dette bilag",
+             "value": "MAIDEN"
            }
          ],
          "format":"FILE",
