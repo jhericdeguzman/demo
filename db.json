@@ -165,18 +165,13 @@
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal",
       "progress": 25,
       "lastPage": false,
-      "translations": [
-        {
-          "key": "or",
-          "value": "eller"
-        },{
-          "key": "attached files",
-          "value": "vedhaeftede filer"
-        },{
-          "key": "Enforced contract",
-          "value": "Vedhaeft kontrakt"
-        }
-      ],
+      "translations": {
+        "upload.file": "Vedhaeft kontrakt",
+        "upload.or": "eller",
+        "upload.remove": "fjern",
+        "upload.attachtment": "vedhaeftede filer",
+        "upload.validation": "File must be pdf, docx, doc format and 2mb max size"
+      },
       "questions": [
           {
             "id": 21,
@@ -265,21 +260,21 @@
       },
         {
          "id":25,
-         "question":"File upload element",
+         "question":"Dine bilag til bortforpagtning",
          "type":"file",
          "errorText":"OBS! Du skal besvare ovenstående spørgsmål",
          "showErrorText":false,
          "isRequired":true,
          "helptext":"",
-         "answer":"",
+         "answer":"POST",
          "options":[
            {
-             "key": "sender bilag med posten",
+             "key": "Sender bilag med posten",
              "value": "POST"
            },
            {
-             "key": "har ikke dette bilag",
-             "value": "MAIDEN"
+             "key": "Har ikke bilag",
+             "value": "INGEN"
            }
          ],
          "format":"FILE",
