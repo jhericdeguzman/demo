@@ -179,6 +179,16 @@
         "upload.validation": "File must be pdf, docx, doc format and 2mb max size"
       },
       "questions": [
+          {
+            "id": 13,
+              "question": "Startdato for ferieperiode",
+              "type": "date",
+              "helptext": "",
+              "answer": "",
+              "isRequired": true,
+              "errorText": "error some text here",
+              "showErrorText": false
+          },
         {
             "id": 20,
               "question": "<p>Hvilken uddanelse deltager du i perioden fra 23.06.2020 til 10.01.2021?</p><ul><li>Kontanthjælp</li><li>SU</li><li>Sygedagpenge</li><li>Barselsdagpenge</li><li>Ressourceforløbsydelse</li><li>Seniorydelse</li><li>Flexydelse</li><li>Revalidering</li></ul>",
