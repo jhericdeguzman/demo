@@ -179,6 +179,17 @@
         "upload.validation": "File must be pdf, docx, doc format and 2mb max size"
       },
       "questions": [
+        {
+            "id": 20,
+              "question": "<p>Hvilken uddanelse deltager du i perioden fra 23.06.2020 til 10.01.2021?</p><ul><li>Kontanthjælp</li><li>SU</li><li>Sygedagpenge</li><li>Barselsdagpenge</li><li>Ressourceforløbsydelse</li><li>Seniorydelse</li><li>Flexydelse</li><li>Revalidering</li></ul>",
+              "type": "input",
+              "placeholder": "skriv navnet på uddannelsen",
+              "helptext": "Some helper text here",
+              "answer": "",
+              "isRequired": true,
+              "errorText": "Required input text",
+              "options": []
+          }
           {
             "id": 21,
               "question": "<p>Er du i et arbejdsforhold, hvor du har aftalt med din arbejdsgiver at overføre feriedage fra tidligere ferieår?</p>",
@@ -310,31 +321,6 @@
               "answer": "31-09-2020",
               "isRequired": true,
               "errorText": "Required date",
-              "options": []
-          }
-      ]
-    },
-    {
-      "id": 4,
-      "pageNo": 4,
-      "instanceId": 4,
-      "referenceId": 333,
-      "sessionId": 444,
-      "isCalendar": false,
-      "title": "ansøg om dine feriedagpenge",
-      "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
-      "progress": 75,
-      "lastPage": false,
-      "questions": [
-          {
-            "id": 41,
-              "question": "<p>Hvilken uddanelse deltager du i perioden fra 23.06.2020 til 10.01.2021?</p><ul><li>Kontanthjælp</li><li>SU</li><li>Sygedagpenge</li><li>Barselsdagpenge</li><li>Ressourceforløbsydelse</li><li>Seniorydelse</li><li>Flexydelse</li><li>Revalidering</li></ul>",
-              "type": "input",
-              "placeholder": "skriv navnet på uddannelsen",
-              "helptext": "Some helper text here",
-              "answer": "",
-              "isRequired": true,
-              "errorText": "Required input text",
               "options": []
           }
       ]
