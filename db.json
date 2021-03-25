@@ -76,6 +76,9 @@
   "pages": [
     {
       "id": 1,
+      "instanceId": 1,
+      "referenceId": 333,
+      "sessionId": 444,
       "pageNo": 1,
       "isCalendar": true,
       "title": "hvornår vil du gerne afholde din ferie?",
@@ -159,6 +162,9 @@
     },
     {
       "id": 2,
+      "instanceId": 2,
+      "referenceId": 333,
+      "sessionId": 444,
       "pageNo": 2,
       "isCalendar": false,
       "title": "overførte feriedage",
@@ -287,6 +293,9 @@
     {
       "id": 3,
       "pageNo": 3,
+      "instanceId": 3,
+      "referenceId": 333,
+      "sessionId": 444,
       "isCalendar": false,
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
@@ -308,6 +317,9 @@
     {
       "id": 4,
       "pageNo": 4,
+      "instanceId": 4,
+      "referenceId": 333,
+      "sessionId": 444,
       "isCalendar": false,
       "title": "ansøg om dine feriedagpenge",
       "description": "Udfyld formularen herunder, så ringer vi til dig inden for to hverdage for at få de resterende oplysninger, vi skal ",
@@ -330,6 +342,9 @@
     {
       "id": 5,
       "pageNo": 5,
+      "instanceId": 5,
+      "referenceId": 333,
+      "sessionId": 444,
       "isCalendar": false,
       "title": "",
       "description": "",
