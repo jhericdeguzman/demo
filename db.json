@@ -190,6 +190,7 @@
               "answer": "",
               "isRequired": true,
               "errorText": "Required input text",
+              "notification": "Input notif",
               "options": []
           },
           {
@@ -200,6 +201,7 @@
               "answer": "",
               "isRequired": true,
               "errorText": "Required radio",
+              "notification": "Radio notif",
               "options": [
                 {
                   "key": "Ja",
@@ -224,7 +226,8 @@
               "isRequired": true,
               "options": [],
               "errorText": "submit error textarea",
-              "showErrorText": true
+              "showErrorText": true,
+              "notification": "Textarea notif"
           },
         
         {
@@ -236,6 +239,7 @@
            "isRequired":true,
            "helptext":"",
            "answer":"OK,2nd",
+            "notification": "Checkbox notif",
            "options":[
               {
                  "key":"OK",
@@ -263,6 +267,7 @@
          "isRequired":true,
          "helptext":"",
          "answer":"EL-FRAVÆLG",
+         "notification": "Select notif",
          "options":[
             {
                "key":"Fravælge efterlønsordningen",
