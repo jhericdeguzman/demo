@@ -148,15 +148,6 @@
               "answer": "",
               "isRequired": false,
               "errorText": ""
-          },
-          {
-            "id": 18,
-              "question": "Slutdato for ferieperiode nummer 3",
-              "type": "date",
-              "helptext": "",
-              "answer": "",
-              "isRequired": false,
-              "errorText": ""
           }
       ]
     },
