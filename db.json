@@ -187,7 +187,8 @@
               "answer": "",
               "isRequired": true,
               "errorText": "error some text here",
-              "showErrorText": false
+              "showErrorText": false,
+              "notification": "To receive unemployment benefits, you must be registered as a jobseeker at the Jobcenter."
           },
         {
             "id": 20,
