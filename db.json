@@ -291,6 +291,7 @@
          "isRequired":true,
          "helptext":"",
          "answer":"POST",
+         "label": "Vedhaeft kontraktNo file chosen",
          "options":[
            {
              "key": "Sender bilag med posten",
